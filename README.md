@@ -1,2 +1,2 @@
 # LinearRegression
-Implementing Linear Regression From scratch in python
+Implementing Linear Regression from scratch in python.
